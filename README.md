@@ -20,6 +20,8 @@ Currently working on expanding my proficiency in various languages while figurin
 
 Side-projects currently include various of the above-mentioned elements, but also PHP via Codeigniter.
 
+Majority of my repo's are private, but I will be making public repos occassionally.
+
 I was going to learn Java, in order to make Old School Runescape plugins - But with the upcoming change with the official Old School RuneScape client permitting plugins (rather than using RuneLite) - The language that'll be used is C#.
 God bless.
 
