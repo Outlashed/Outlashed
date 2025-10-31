@@ -1,4 +1,23 @@
-## Hi there 👋
+## AP Graduate student in Computer Science.
+
+Currently working on expanding my proficiency in various languages while figuring out what field I want to work with.
+
+## I'm actively training the following languages
+- C#
+- Python
+- LUA
+
+
+## I have experience with:
+- Reverse Engineering
+- Low Level Byte Encryption
+- UI / UX Design
+
+
+
+Side-projects currently include various of the above-mentioned elements, but also PHP via Codeigniter.
+
+
 
 <!--
 **Outlashed/Outlashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
