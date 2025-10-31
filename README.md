@@ -20,5 +20,8 @@ Currently working on expanding my proficiency in various languages while figurin
 
 Side-projects currently include various of the above-mentioned elements, but also PHP via Codeigniter.
 
+I was going to learn Java, in order to make Old School Runescape plugins - But with the upcoming change with the official Old School RuneScape client permitting plugins (rather than using RuneLite) - The language that'll be used is C#.
+God bless.
+
 
 This readme is a bit of a mess, for now I'm more focused on just learning and figuring this all out; than making this a proper readme.
