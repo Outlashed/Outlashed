@@ -12,24 +12,13 @@ Currently working on expanding my proficiency in various languages while figurin
 - Reverse Engineering
 - Low Level Byte Encryption
 - UI / UX Design
+- Blazor framework
+- Linux server hosting
+- Database hosting via VPN.
 
 
 
 Side-projects currently include various of the above-mentioned elements, but also PHP via Codeigniter.
 
 
-
-<!--
-**Outlashed/Outlashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This readme is a bit of a mess, for now I'm more focused on just learning and figuring this all out; than making this a proper readme.
