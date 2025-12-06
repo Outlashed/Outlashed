@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Outlashed/Outlashed/main/Foxxy Banner.png" width="100%" alt="Foxxy Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Foxy / Outlashed</h1>
+<h1 align="center">Hi, I'm CrownedFoxxy / Outlashed</h1>
 <p align="center"><i>AP Graduate Student in Computer Science · Reverse Engineer · Full-Stack Explorer</i></p>
 
 ---
