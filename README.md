@@ -1,43 +1,72 @@
-# Hi, I'm *[CrownedFoxxy]* — AP Graduate Student in Computer Science
+<!-- Header banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/images/logo.svg" width="200"/>
+</p>
 
-I'm an AP Graduate student currently expanding my skills across multiple programming languages and technical domains while exploring which field I ultimately want to specialize in.
-
-My work spans practical software development, reverse engineering, backend systems, and full-stack experimentation. Most of my repositories remain private for now, but I publish selected projects as I progress.
+<h1 align="center">Hi, I'm <strong>CrownedFoxxy</strong>👋</h1>
+<p align="center">
+  AP Graduate Student in Computer Science · Reverse Engineer · Full-Stack Explorer
+</p>
 
 ---
 
 ## Languages I'm Actively Training
-- **C#** – desktop applications, WPF/MVVM, Blazor  
-- **Python** – tooling, automation, parsing, reverse engineering  
-- **Lua** – gameplay scripting & lightweight automation  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,python,lua" />
+</p>
 
 ---
 
 ## Technical Experience
-- **Reverse Engineering**  
-- **Low-level byte analysis & encryption**  
-- **UI/UX design**  
-- **Blazor (C# Web Framework)**  
-- **Linux server hosting & management**  
-- **VPN-based database hosting**  
+- Reverse Engineering  
+- Low-level byte analysis & encryption  
+- UI/UX Design  
+- Blazor framework  
+- Linux server hosting  
+- VPN-based database hosting  
+- PHP / CodeIgniter (ongoing)  
 
 ---
 
 ## Side Projects & Interests
-My personal projects often combine several of the above areas — especially reverse engineering, tooling, backend services, or experimentation with new frameworks.
+I often work on projects combining:
+- reverse engineering  
+- tooling & automation  
+- backend development  
+- custom parsers  
+- experimental frameworks  
 
-I'm also planning to dive into:
-- **C++** (systems-level work & performance-critical applications)  
-- **PHP** (full-stack development + backend logic)
+Currently planning to learn:
+- **C++**
+- **More advanced PHP**
 
 ---
 
-## Current Focus
-Right now, I'm prioritizing growth and learning across languages and technologies.  
-This README will evolve as I solidify my direction and begin releasing more public work.
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## Tools & Technologies I Use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,blender,visualstudio,vscode,bash,mysql,php" />
+</p>
 
 ---
 
 ## About This README
-It's intentionally simple for now — my main goal is building skill, not curating the perfect profile.  
-That said, expect improvements as my projects and interests expand.
+This profile will keep evolving as I grow and publish more public projects.  
+Right now, my focus is on learning — not perfection — but I still wanted a cool README 😄
+
+---
+
+<p align="center">
+  <em>More coming soon...</em>
+</p>
