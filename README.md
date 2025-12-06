@@ -43,8 +43,8 @@ $ coffee --status
 
 ## GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-gamma-pink-81.vercel.app/api?username=Outlashed&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats-gamma-pink-81.vercel.app/api/top-langs/?username=Outlashed&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Outlashed&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Outlashed&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
