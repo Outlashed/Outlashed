@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Outlashed/Outlashed/main/banner.png" width="100%" alt="Foxy Banner"/>
+  <img src="https://raw.githubusercontent.com/Outlashed/Outlashed/main/banner.png" width="100%" alt="Foxxy Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Foxy / Outlashed</h1>
@@ -55,16 +55,6 @@ $ coffee --status
 <p align="center">
   <img src="https://raw.githubusercontent.com/Outlashed/Outlashed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
   />
-</p>
-
-## Featured Projects
-<p align="center">
-  <a href="https://github.com/Outlashed?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Outlashed&repo=REPO1&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Outlashed?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Outlashed&repo=REPO2&theme=tokyonight"/>
-  </a>
 </p>
 
 ## About Me
