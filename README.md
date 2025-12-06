@@ -6,6 +6,7 @@ Currently working on expanding my proficiency in various languages while figurin
 - C#
 - Python
 - LUA
+- SQL
 
 
 ## I have experience with:
