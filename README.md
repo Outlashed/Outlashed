@@ -1,29 +1,43 @@
-## AP Graduate student in Computer Science.
+# Hi, I'm *[CrownedFoxxy]* — AP Graduate Student in Computer Science
 
-Currently working on expanding my proficiency in various languages while figuring out what field I want to work with.
+I'm an AP Graduate student currently expanding my skills across multiple programming languages and technical domains while exploring which field I ultimately want to specialize in.
 
-## I'm actively training the following languages
-- C#
-- Python
-- LUA
-- SQL
+My work spans practical software development, reverse engineering, backend systems, and full-stack experimentation. Most of my repositories remain private for now, but I publish selected projects as I progress.
 
+---
 
-## I have experience with:
-- Reverse Engineering
-- Low Level Byte Encryption
-- UI / UX Design
-- Blazor framework
-- Linux server hosting
-- Database hosting via VPN.
+## Languages I'm Actively Training
+- **C#** – desktop applications, WPF/MVVM, Blazor  
+- **Python** – tooling, automation, parsing, reverse engineering  
+- **Lua** – gameplay scripting & lightweight automation  
 
+---
 
+## Technical Experience
+- **Reverse Engineering**  
+- **Low-level byte analysis & encryption**  
+- **UI/UX design**  
+- **Blazor (C# Web Framework)**  
+- **Linux server hosting & management**  
+- **VPN-based database hosting**  
 
-Side-projects currently include various of the above-mentioned elements, but also PHP via Codeigniter.
+---
 
-Majority of my repo's are private, but I will be making public repos occassionally.
+## Side Projects & Interests
+My personal projects often combine several of the above areas — especially reverse engineering, tooling, backend services, or experimentation with new frameworks.
 
-I am planning on learning C++ and PHP in the near future.
+I'm also planning to dive into:
+- **C++** (systems-level work & performance-critical applications)  
+- **PHP** (full-stack development + backend logic)
 
+---
 
-This readme is a bit of a mess, for now I'm more focused on just learning and figuring this all out; than making this a proper readme.
+## Current Focus
+Right now, I'm prioritizing growth and learning across languages and technologies.  
+This README will evolve as I solidify my direction and begin releasing more public work.
+
+---
+
+## About This README
+It's intentionally simple for now — my main goal is building skill, not curating the perfect profile.  
+That said, expect improvements as my projects and interests expand.
