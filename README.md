@@ -54,7 +54,6 @@ $ coffee --status
 ## Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Outlashed/Outlashed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-  />
 </p>
 
 ## About Me
