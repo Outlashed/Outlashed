@@ -20,6 +20,7 @@ $ currently-learning
 
 $ coffee --status
 > brewing...
+```
 
 ## Languages I'm Actively Training
 <p align="left">
