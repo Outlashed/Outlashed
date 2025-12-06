@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Outlashed/Outlashed/main/banner.png" width="100%" alt="Foxxy Banner"/>
+  <img src="https://raw.githubusercontent.com/Outlashed/Outlashed/main/Foxxy Banner.png" width="100%" alt="Foxxy Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Foxy / Outlashed</h1>
