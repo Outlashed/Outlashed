@@ -35,6 +35,8 @@ $ coffee --status
 - Linux server hosting and automation  
 - VPN-based database hosting  
 - PHP and CodeIgniter (side projects)
+- SQL database design and optimization  
+- API design and integration (REST / JSON)
 
 ## Tools and Technologies
 <p>
