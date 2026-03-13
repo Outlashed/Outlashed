@@ -13,10 +13,10 @@ $ whoami
 > Outlashed
 
 $ skills --list
-> C#, Python, Lua, Reverse Engineering, Blazor, Linux Hosting, VPN DB Hosting
+> C#, Python, Lua, Reverse Engineering, Blazor, Linux Hosting, VPN DB Hosting, AHK.
 
 $ currently-learning
-> C++, PHP, advanced backend systems, tool development
+> Tool development, Java
 
 $ coffee --status
 > brewing...
